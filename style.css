@@ -95,6 +95,7 @@ img{
     border-radius: 10px;
     overflow: auto;
     background: wheat;
+    padding: 20px;
 }
 
 #footer{
